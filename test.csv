@@ -1,0 +1,101 @@
+Roll no,test preparation ,gender,parental level of education,lunch,Section,practical score,viva score
+EXA32000,none,male,associate's degree,standard,Section C,74,89
+EXA32001,completed,male,some high school,standard,Section E,66,75
+EXA32002,none,male,some high school,standard,Section C,52,55
+EXA32003,completed,male,some high school,standard,Section D,69,85
+EXA32004,none,female,bachelor's degree,standard,Section E,46,62
+EXA32005,none,female,bachelor's degree,free/reduced,Section A,74,60
+EXA32006,none,male,master's degree,standard,Section D,100,71
+EXA32007,completed,female,master's degree,standard,Section D,83,65
+EXA32008,none,male,some high school,standard,Section D,82,50
+EXA32009,completed,male,associate's degree,standard,Section D,58,81
+EXA32010,none,female,some high school,standard,Section C,59,90
+EXA32011,none,female,associate's degree,standard,Section A,77,65
+EXA32012,completed,male,associate's degree,free/reduced,Section A,61,90
+EXA32013,none,male,some high school,standard,Section D,85,76
+EXA32014,none,female,associate's degree,standard,Section B,59,83
+EXA32015,none,male,some college,standard,Section C,71,80
+EXA32016,none,male,some college,standard,Section C,52,75
+EXA32017,completed,female,high school,standard,Section A,62,73
+EXA32018,none,male,high school,standard,Section E,47,59
+EXA32019,none,male,high school,standard,Section D,96,63
+EXA32020,completed,female,some college,standard,Section D,48,56
+EXA32021,none,male,associate's degree,standard,Section D,20,83
+EXA32022,none,female,some college,free/reduced,Section D,70,100
+EXA32023,none,male,some college,free/reduced,Section B,59,38
+EXA32024,none,female,associate's degree,standard,Section D,80,67
+EXA32025,none,male,some high school,standard,Section C,83,84
+EXA32026,none,female,associate's degree,standard,Section E,75,72
+EXA32027,none,female,some high school,standard,Section B,73,68
+EXA32028,none,male,some high school,standard,Section C,78,75
+EXA32029,completed,female,bachelor's degree,standard,Section C,94,81
+EXA32030,none,male,some high school,standard,Section B,46,86
+EXA32031,none,male,master's degree,standard,Section B,77,44
+EXA32032,none,male,bachelor's degree,free/reduced,Section B,63,65
+EXA32033,none,male,some college,standard,Section A,64,90
+EXA32034,none,male,master's degree,free/reduced,Section C,60,79
+EXA32035,none,male,master's degree,free/reduced,Section E,74,50
+EXA32036,none,female,some college,free/reduced,Section C,67,53
+EXA32037,none,female,high school,standard,Section C,78,41
+EXA32038,none,female,associate's degree,free/reduced,Section E,88,46
+EXA32039,completed,female,associate's degree,standard,Section D,52,65
+EXA32040,none,male,high school,free/reduced,Section C,88,66
+EXA32041,completed,female,associate's degree,standard,Section D,78,60
+EXA32042,none,female,some college,standard,Section B,55,74
+EXA32043,none,male,associate's degree,standard,Section E,71,91
+EXA32044,completed,male,associate's degree,standard,Section D,75,65
+EXA32045,none,male,some college,standard,Section B,62,57
+EXA32046,none,male,high school,free/reduced,Section D,66,40
+EXA32047,none,male,some high school,standard,Section D,39,56
+EXA32048,none,female,associate's degree,standard,Section E,85,65
+EXA32049,none,male,associate's degree,standard,Section D,46,98
+EXA32050,completed,female,associate's degree,standard,Section B,57,100
+EXA32051,none,female,associate's degree,free/reduced,Section D,65,100
+EXA32052,completed,female,high school,free/reduced,Section B,86,59
+EXA32053,none,female,master's degree,free/reduced,Section D,59,66
+EXA32054,completed,male,high school,standard,Section D,49,75
+EXA32055,none,female,some high school,standard,Section A,51,71
+EXA32056,none,female,some college,free/reduced,Section E,53,94
+EXA32057,completed,male,associate's degree,standard,Section D,82,49
+EXA32058,completed,male,associate's degree,free/reduced,Section C,51,74
+EXA32059,none,male,master's degree,standard,Section E,74,66
+EXA32060,completed,male,associate's degree,free/reduced,Section C,73,73
+EXA32061,completed,male,associate's degree,standard,Section C,42,74
+EXA32062,none,male,high school,standard,Section B,41,57
+EXA32063,none,male,some college,standard,Section D,84,77
+EXA32064,none,female,high school,standard,Section B,64,59
+EXA32065,none,male,bachelor's degree,standard,Section C,74,89
+EXA32066,completed,male,associate's degree,standard,Section A,91,59
+EXA32067,completed,male,some college,standard,Section C,67,70
+EXA32068,none,female,high school,standard,Section E,54,40
+EXA32069,completed,male,some high school,standard,Section D,44,69
+EXA32070,completed,female,high school,free/reduced,Section E,65,69
+EXA32071,completed,female,master's degree,free/reduced,Section E,37,39
+EXA32072,none,male,some high school,standard,Section D,58,56
+EXA32073,completed,female,some college,standard,Section B,69,70
+EXA32074,none,male,high school,standard,Section C,64,63
+EXA32075,none,female,some college,standard,Section C,70,66
+EXA32076,none,female,master's degree,standard,Section D,55,49
+EXA32077,completed,female,some high school,standard,Section E,45,56
+EXA32078,none,female,bachelor's degree,standard,Section C,80,97
+EXA32079,none,male,some high school,standard,Section C,77,56
+EXA32080,completed,male,some high school,standard,Section D,57,61
+EXA32081,completed,male,some high school,free/reduced,Section C,67,77
+EXA32082,none,female,some college,free/reduced,Section D,68,74
+EXA32083,none,female,associate's degree,standard,Section C,49,61
+EXA32084,none,female,high school,free/reduced,Section B,42,66
+EXA32085,none,female,associate's degree,free/reduced,Section B,96,92
+EXA32086,none,male,high school,free/reduced,Section C,55,55
+EXA32087,completed,female,some high school,free/reduced,Section B,70,71
+EXA32088,none,female,high school,free/reduced,Section C,51,49
+EXA32089,none,male,associate's degree,standard,Section D,27,62
+EXA32090,completed,male,some high school,standard,Section C,60,77
+EXA32091,completed,female,some college,free/reduced,Section D,44,77
+EXA32092,none,female,some high school,standard,Section C,63,75
+EXA32093,completed,female,some high school,free/reduced,Section D,72,68
+EXA32094,completed,male,some college,standard,Section E,82,79
+EXA32095,none,male,bachelor's degree,standard,Section B,82,84
+EXA32096,completed,male,associate's degree,free/reduced,Section B,70,58
+EXA32097,none,male,some college,standard,Section C,76,67
+EXA32098,completed,male,associate's degree,standard,Section A,62,71
+EXA32099,none,male,high school,standard,Section B,58,67
