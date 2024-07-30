@@ -2,7 +2,11 @@ High School Students Exam Score PredictionHackathon Overview 🏆
 
 This project was developed as part of the CognoRise Data science Hackathon. It involves predicting high school students' exam scores using machine learning techniques. The dataset includes features related to students' performance and demographics.Dataset 📂
 
-The dataset is divided into two files:train.csvThis file contains the training data used to build the machine learning model.
+The dataset is divided into two files:
+
+***train.csv
+
+This file contains the training data used to build the machine learning model.
 
 
  It includes the following columns:
